@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 
 password = "CarlTheIntern"  # The password the student must enter to defuse the bomb
 
